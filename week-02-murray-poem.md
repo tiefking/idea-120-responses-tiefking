@@ -1,10 +1,10 @@
 Digital Environment 
 
-What a Digital Environment is
-Procedural; to follow a set of commands
-Particapatory; to be responsive to iput
-Spatial; to produce the illusion of movement in a space
-Encylopedic; to hold information
+<P>What a Digital Environment is
+<P>Procedural; to follow a set of commands
+<P>Particapatory; to be responsive to iput
+<P>Spatial; to produce the illusion of movement in a space
+<P>Encylopedic; to hold information
 
 ![Alt Text](https://trianglejump.files.wordpress.com/2016/09/7936-zork_i_-_the_great_underground_empire-1.png)
 ![Alt Text](https://steemitimages.com/0x0/https://steemitimages.com/DQmfRtr6Yr39jhMfn6MVFF2HC2adc4CQopw75cc8GrRwugL/PIC20021211110167299.gif)
