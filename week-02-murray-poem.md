@@ -1,9 +1,3 @@
-<html>
-  <head>
-    <style>
-P {text-align: center;}
-    </style>
-  </head>
 Digital Environment 
 
 <P>What a Digital Environment is
