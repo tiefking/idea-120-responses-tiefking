@@ -11,3 +11,7 @@ I believe Versions (2010) of the Rhizome Anthology could be considered as a gesa
 There is a mix of different visual types, from 3D to 2D, from still images or animated. The audio is a mix of the artists' own words
 and words recycled from other sources, made cohesive by using a computerized voice tool. 
 
+<!-- Am I a man or am I a muppet
+If I'm a muppet then I'm a very manly muppet
+Am I a muppet or am I a man
+If I'm a man that makes me a muppet of a man -->
