@@ -1,0 +1,1 @@
+For my greenscreen background I would like to have a sort of spaceship setting with a large window looking out into space behind me. Various things happen through the window, like a comet passing by or an astronaut floating by.
