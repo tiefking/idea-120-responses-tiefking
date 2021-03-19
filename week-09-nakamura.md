@@ -1,0 +1,3 @@
+I think the meaning of the quote is meant to mean that when you use a program made by somebody else, you are following the rules they put in place for the system. The creator of the program has set it so it can function within certain parameters and when certain steps are taken, and the user can't decide how the program is supposed to work.
+
+A program like Gmail fits into that, because there are certain steps you must take to use the program as intended. To send an email you must first click the button that says compose, enter certain information, and click certain buttons to add different file types to your email. It’s a very orderly mental structure, straightforward or categorical. That could reflect the developer as somebody who thinks in such a way as well.
