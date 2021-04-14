@@ -1,0 +1,1 @@
+My current idea for a twine game would follow a murder mystery, or in general any mystery. There would be a detective, several suspects, and a cat. Each character's alibi would tie into each other, and the culprit may or may not be the cat.
